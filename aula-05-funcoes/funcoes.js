@@ -20,5 +20,5 @@ function calculaDobroDeUmNumero(numero) {
 /* Aqui criamos uma variavel NumeroDobrado para armazenar o retorno da função. Essa variavel receber o chamado da função com o parametro (4). */
 const numeroDobrado = calculaDobroDeUmNumero(6);
 /* Chamamos o console log para exibir no terminal o resultado da execução da função e chamamos a variável numeroDobrado que recebeu o resultado da função. 
-   O resultado deve ser: O dobro de 4 é: 8 */
+   O resultado deve ser: O dobro de 6 é: 12 */
 console.log("O dobro de 6 é: ", numeroDobrado);
